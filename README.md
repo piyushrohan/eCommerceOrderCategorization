@@ -1,7 +1,10 @@
 ```markdown
 # eCommerce Order Categorization
 
-This Java project demonstrates a solution for categorizing e-commerce orders by product categories and grouping customers by those categories. It provides a Java method that takes a list of orders and returns a map, where each category key is mapped to a list of customer names who ordered products from that category. The project also includes comprehensive JUnit tests.
+This Java project demonstrates a solution for categorizing e-commerce orders by product categories 
+and grouping customers by those categories. It provides a Java method that takes a list of orders and returns a map, 
+where each category key is mapped to a list of customer names who ordered products from that category.
+The project also includes comprehensive JUnit tests.
 
 ## Method
 
@@ -29,7 +32,7 @@ Before running the project, ensure you have the following prerequisites installe
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/eCommerceOrderCategorization.git
+   git clone https://github.com/piyushrohan/eCommerceOrderCategorization.git
    ```
 
 2. Navigate to the project directory:
